@@ -39,7 +39,7 @@
 
 <br/>
 
- <p align='center'><img src="https://github-readme-streak-stats.herokuapp.com/?user=vishal1patidar&count_private=true&show_icons=true&theme=dark" width="450">
+ <p align='center'><img src="https://github-readme-streak-stats.herokuapp.com/?user=Rohan-Rathore&count_private=true&show_icons=true&theme=dark" width="450">
 
 
 <h3 align="center">Connect with me 🤝</h3>
