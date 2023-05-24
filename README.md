@@ -47,7 +47,7 @@
     <div class="img1">
 <p align='center'>
 <a href="https://www.linkedin.com/in/rohan-rathore-8b900b128/" target="_blank"><img src="https://icons.iconarchive.com/icons/alecive/flatwoken/64/Apps-Linkedin-icon.png" width="5%" alt="Linkedin"></a>
-<a href="https://mail.google.com/mail/u/0/?to=rohanrathore576@gmail.com&fs=1&tf=cm" target="_blank"><img src="https://icons.iconarchive.com/icons/wwalczyszyn/android-style-honeycomb/64/GMail-icon.png" width="5%" alt="Email"></a>
+<a  href="https://mail.google.com/mail/u/0/?to=rohanrathore576@gmail.com&fs=1&tf=cm" target="_blank"><img src="https://icons.iconarchive.com/icons/wwalczyszyn/android-style-honeycomb/64/GMail-icon.png" width="5%" alt="Email"></a>
 <a href="https://t.me/rohanrathore576" target="_blank"><img src="https://icons.iconarchive.com/icons/alecive/flatwoken/64/Apps-Telegram-icon.png" alt="telegram" width="5%"></a>
 <a href="https://twitter.com/0xrohanrathore" target="_blank"><img src="https://icons.iconarchive.com/icons/alecive/flatwoken/64/Apps-Twitter-icon.png" alt="twitter" width="5%"></a>   
 	
