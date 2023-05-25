@@ -1,5 +1,5 @@
 <h1 align="center">Hello,there I'm  <a href="https://www.linkedin.com/in/rohan-rathore-8b900b128">Rohan Rathore</a></h1>
-<h3 align="center"> <img src="https://readme-typing-svg.herokuapp.com?color=0357F7&lines=Fellow+builder%3A)" /> </h3>
+<h3 align="center"> <img src="https://readme-typing-svg.herokuapp.com?color=0357F7&lines=Think+Plan+Build+Improve+Iterate+%3A)" /> </h3>
 
 <div align="center">
 <img width="1080px" src="https://github-widgetbox.vercel.app/api/profile?username=Rohan-Rathore&data=followers,repositories,stars,commits&theme=radical&title_color=000000">
