@@ -17,7 +17,7 @@
 
 - 💬 Ask me about **DSA** & **Javascript** 
 
-- 👀 Cheak my   <a href="https://leetcode.com">LeetCode</a>  ||    <a href="https://www.geeksforgeeks.org">GfG</a>
+- 👀 Check my   <a href="https://leetcode.com">LeetCode</a>  ||    <a href="https://www.geeksforgeeks.org">GfG</a>
 
 	</td>
   </tr>
